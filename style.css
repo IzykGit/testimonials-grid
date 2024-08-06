@@ -99,6 +99,11 @@ article > p {
     gap: 1rem;
 
     color: white;
+
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-origin: content-box;
 }
 
 .article-2 {
